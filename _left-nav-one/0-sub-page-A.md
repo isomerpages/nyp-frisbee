@@ -27,6 +27,7 @@ Today's students need to be prepared for future careers and workplaces in which 
 ![Image of Sentosa]({{"/images/artwork.png" | absolute_url}})
 
 
+
 #### **Student Info**
 
 <table style="width: 100%;" border="0" cellpadding="10">
