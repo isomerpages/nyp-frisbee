@@ -1,5 +1,5 @@
 ---
-title: Sub Page A
+title: Student Showcase
 permalink: /left-nav-one/sub-page-A/
 ---
 
