@@ -34,7 +34,7 @@ Today's students need to be prepared for future careers and workplaces in which 
 <tbody>
 <tr>
 <td style="width: 150px;"><img src="/images/student_02.png" alt="Jackie Gerstein" /></td>
-<td><strong>Dr Jackie Gerstein</strong><br />Faculty and Gifted Education Teacher<br />Walden and Western Governors Universities <br />and Santa Fe Public Schools<br></td>
+<td><strong>Dr Siti Aminah</strong><br />Visual Communication<br />siti_aminah@gmail.com<br />+65 8234 5678<br></td>
 </tr>
 </tbody>
 </table>
