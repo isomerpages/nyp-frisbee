@@ -15,7 +15,7 @@ Today's students need to be prepared for future careers and workplaces in which 
 <tbody>
 <tr>
 <td style="width: 150px;"><img src="/images/Photo_Chad-Ratliff.jpg" alt="Jackie Gerstein" /></td>
-<td><strong>John Doe</strong><br />Visual Communication<br />johndoes@gmail.com <br />pinterst<br></td>
+<td><strong>Jackie Chan</strong><br />Visual Communication<br />johndoes@gmail.com <br />+65 4446 5555<br></td>
 </tr>
 </tbody>
 </table>
@@ -34,7 +34,7 @@ Today's students need to be prepared for future careers and workplaces in which 
 <tbody>
 <tr>
 <td style="width: 150px;"><img src="/images/student_02.png" alt="Jackie Gerstein" /></td>
-<td><strong>Dr Siti Aminah</strong><br />Visual Communication<br />siti_aminah@gmail.com<br />+65 8234 5678<br></td>
+<td><strong>Siti Aminah</strong><br />Visual Communication<br />siti_aminah@gmail.com<br />+65 8234 5678<br></td>
 </tr>
 </tbody>
 </table>
@@ -43,4 +43,4 @@ Today's students need to be prepared for future careers and workplaces in which 
 |:---|
 | Jackie Gerstein's byline is, "I don't do teaching for a living. I live teaching as my doing . . . and technology has amplified my passion for doing so." Currently she teaches graduate-level courses for Walden and Western's Governor’s Universities, and gifted education at an elementary public school. Her background includes a strong focus on experiential and adventure learning. She believes that one of the roles and responsibilities of the 21st century education is to share resources, ideas, and instructional strategies with other educators which she did through her recently published book – Learning in the Making. |
 
-![Image of Sentosa]({{"/images/artwork.png" | absolute_url}})
+![Image of Sentosa]({{"/images/artwork02.png" | absolute_url}})
