@@ -1,5 +1,5 @@
 ---
-title: Industrial design
+title: Industrial Design
 permalink: /left-nav-one/sub-page-D/
 ---
 
