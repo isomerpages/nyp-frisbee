@@ -1,5 +1,5 @@
 ---
-title: Student Showcase
+title: Visual Communication
 permalink: /left-nav-one/sub-page-A/
 ---
 
