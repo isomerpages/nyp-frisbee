@@ -1,4 +1,4 @@
 ---
-title: Sub Page B
+title: Architecture
 permalink: /left-nav-one/sub-page-B/
 ---
