@@ -7,18 +7,16 @@
 logo: /images/isomer-logo.svg
 
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Faq
-    url: /faq/
-  - title: Student Showcase
-    url: /privacy-statement/
-  - title: Terms Of Use
-    url: /terms-of-use/
   - title: Who We Are
     url: /who-we-are/
-  - title: Left Nav One
+  - title: Student Showcase
     collection: left-nav-one
+  - title: Faq
+    url: /faq/
+  - title: Contact Us
+    url: /contact-us/
+  - title: Terms Of Use
+    url: /terms-of-use/
   - title: Left Nav Two
     collection: left-nav-two
   - title: Resource Room
