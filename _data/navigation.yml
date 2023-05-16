@@ -3,13 +3,21 @@
 # Feel free to edit this file :) #
 #                                #
 ##################################
-- title: About the Event
-  url: /about-the-event/
-- title: Do Good Initiative
-  url: /do-good-initiative/
-- title: Who We Are
-  url: /who-we-are/
-- title: Contact Us
-  url: /contact-us/
-  
-  
+
+logo: /images/Marketing NYP Logo_CMYK.jpg
+
+links:
+  - title: Who We Are
+    url: /who-we-are/
+  - title: Student Showcase
+    collection: left-nav-one
+  - title: Faq
+    url: /faq/
+  - title: Contact Us
+    url: /contact-us/
+  - title: Terms Of Use
+    url: /terms-of-use/
+  - title: Left Nav Two
+    collection: left-nav-two
+  - title: Resource Room
+    resource_room: true
